@@ -1,3 +1,3 @@
 # Miko.ai
 
-This is the official GitHub organisation page for Miko.ai - a friendly robot used by millions of kids worldwide.
+This is a special repo that is used to show information about our organisation on the [org page](https://github.com/miko-ai-org)
